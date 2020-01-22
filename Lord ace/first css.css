@@ -1,0 +1,90 @@
+body{
+    background-color:beige; padding: 10px;
+}
+hgroup{text-align: center;tab-size: 1000pt}
+p{
+    line-height: 1.9; color: black ;
+}
+h1,{ color: black;
+}
+h2{font-size: 130%; color:olive}
+
+a{ text-decoration: none}
+
+
+.clear{margin: 0; padding: 0;}
+
+header{font-style: oblique;font-family: sans-serif;background-color: beige;
+;}
+
+
+
+img.img-right{display: block; float: right; border: solid 2px #555; margin: auto}
+figure {
+    border: solid 2px #555;
+    padding: 2px;
+    margin: 3px 5px 3px 12pt;
+    background-color: #eed;
+}
+article{  background-color: beige; font-family: sans-serif; font-size: 16pt; width: 100%;
+    
+}
+
+
+
+footer p{background-color: #555; font-family: sans-serif; margin: 0;
+padding: 0;
+display: block;
+;
+text-align: center}
+
+#maindiv {border: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+color: #513;
+      ;
+}
+
+nav#top-menu{width: 100%;
+            height: 33px;
+            background-image:image("IMG_0667 (2).PNG")margin: 0;
+            padding: 0;
+                
+            }
+#top-menu ul {
+    display: block;
+    list-style-type: none;
+    width: 600px;
+    margin: 0 auto;
+    padding: 0;
+    background-image: image("IMG_0667 (2).PNG")
+}
+
+#top-menu ul li {
+    margin: 0;
+    padding: 0;
+}
+#top-menu ul li a {
+    display: block;
+    float: left;
+    max-height: 25px;
+    width: 100px;
+    margin: 0;
+    padding: 4px 0;
+    font-family: tahoma, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    background-color: #513;
+    text-decoration: none;
+    color: #da1;
+    border-bottom: #531 solid 2px;
+}
+#top-menu ul li a:hover { border-bottom: #da1 solid 2px; }
+.clear{margin: 5px;
+    clear: both;
+    color: black;
+    padding: 5px
+    }
+
+
